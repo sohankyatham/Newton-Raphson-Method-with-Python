@@ -1,5 +1,5 @@
 # Newton-Raphson Method with Python
-# By: Sohan Kyatham 
+# By Sohan Kyatham 
 
 # This program calculates the approximate square root of a number using the Newton-Raphson method
 
@@ -158,7 +158,7 @@ def about_screen():
 
 
 # Create Number Input Label
-number_entry_label = tk.Label(root, text="Enter a number to find the square root approximation of: ")
+number_entry_label = tk.Label(root, font=("Arial", 11), text="Enter a number to find the square root approximation: ")
 number_entry_label.pack()
 
 # Create Number Input Entry Field
@@ -166,7 +166,7 @@ number_entry = tk.Entry(root)
 number_entry.pack()
 
 # Calculate Button
-calculate_btn = tk.Button(root, text="Calculate", command=calculate_sqrt)
+calculate_btn = tk.Button(root, text="Calculate", width=16, font=("Arial", 11), bg="#26aceb", command=calculate_sqrt)
 calculate_btn.pack(pady=10)
 
 # Result Label
