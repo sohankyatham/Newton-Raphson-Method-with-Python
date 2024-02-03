@@ -158,7 +158,7 @@ def about_screen():
 
 
 # Create Number Input Label
-number_entry_label = tk.Label(root, text="Enter a number that you want to find the square root approximation of: ")
+number_entry_label = tk.Label(root, text="Enter a number to find the square root approximation of: ")
 number_entry_label.pack()
 
 # Create Number Input Entry Field
