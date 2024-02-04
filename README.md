@@ -22,8 +22,8 @@ import webbrowser
 
 ### Implementation of the Newton-Raphson Method Iteration:
 Iteration step in the Newton-Raphson method: \
-x - (f(x) / f′(x))
+x_of_n = x - (f(x) / f′(x))
 ```
-# Calculate the next approximation of the square root using the newton-raphson method
+# Calculate the next approximation of the square root using the newton-raphson method iteration
 x_of_n = x - ((x * x - number) / (2 * x))
 ```
