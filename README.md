@@ -10,8 +10,10 @@ This project aims to implement the Newton-Raphson Method in Python to approximat
 
 ### Technologies Used: 
 **__Python:__** The core programming language used for implementing the Newton-Raphson Method. \ 
-\**__Tkinter Library:__** Python's standard GUI (Graphical User Interface) toolkit which was used to create the user interface for the application \ 
-\**__Matplotlib Library:__** A comprehensive library for creating static, animated, and interactive visualizations in Python. This library was used in the program for plotting the graph of the root approximations over iterations. 
+\
+**__Tkinter Library:__** Python's standard GUI (Graphical User Interface) toolkit which was used to create the user interface for the application \ 
+\
+**__Matplotlib Library:__** A comprehensive library for creating static, animated, and interactive visualizations in Python. This library was used in the program for plotting the graph of the root approximations over iterations. 
 
 ```
 import tkinter as tk
