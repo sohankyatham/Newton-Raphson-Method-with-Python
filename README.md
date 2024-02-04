@@ -1,15 +1,15 @@
 # Newton-Raphson-Method-with-Python
 
 ## Description
-The Newton-Raphson Method (or Newton's Method) is an iterative numerical technique used to find the roots of a function. It starts with an initial guess and iteratively refines this guess until it approaches the roots of a function. The method is based on linear approximation and requires the calculation of both the function and its derivative. The Newton-Raphson method is widely utilized in several computational and mathematical applications such as in calculators and mathematical software packages. This project demonstrates the Newton-Raphson Method in python, providing a simple and efficient way to approximate the roots of a quadratic function.
+The Newton-Raphson Method (or Newton's Method) is an iterative numerical technique used to find the roots of a function. It starts with an initial guess and iteratively refines this guess until it approaches the roots of a function. The method is based on linear approximation and requires the calculation of both the function and its derivative. The Newton-Raphson method is widely utilized in several computational and mathematical applications such as in calculators and mathematical software packages. This project demonstrates the Newton-Raphson Method in Python, providing a simple and efficient way to approximate the roots of a quadratic function.
 
 ![Picture of the application running](images/program_running.jpg)
 
 ## Project Overview
-This project aims to implement the Newton-Raphson Method in python to approximate the roots of a quadratic function. It provides a user-friendly interface where a user can input a number and calculate its approximate square root using the Newton-Raphson Method. The application includes features such as graphing the root approximations over iterations and saving the graph as an image file.
+This project aims to implement the Newton-Raphson Method in Python to approximate the roots of a quadratic function. It provides a user-friendly interface where a user can input a number and calculate its approximate square root using the Newton-Raphson Method. The application includes features such as graphing the root approximations over iterations and saving the graph as an image file.
 
 ### Features:
-The program offers a intuitive user interface where the user can enter a number in an entry field to calculate the approximate square root. The matplotlib library is utilized to display the root approximations over the number of iterations. This graph can be cleared (for new calculations) and can be saved as an image file (png & jpg) using the options in the file menubar. Conventional keyboard-bindings to clear the graph (Ctrl+l) and save the graph (Ctrl+s) are used seamlessly to enhance the user experience. The help menu bar provides information about the program and allows the user to view the project repository.
+The program offers an intuitive user interface where the user can enter a number in an entry field to calculate the approximate square root. The matplotlib library is utilized to display the root approximations over the number of iterations. This graph can be cleared (for new calculations) and can be saved as an image file (png & jpg) using the options in the file menubar. Conventional keyboard bindings to clear the graph (Ctrl+l) and save the graph (Ctrl+s) are used seamlessly to enhance the user experience. The help menu bar provides information about the program and allows the user to view the project repository.
 
 ### Technologies Used: 
 **__Python:__** The core programming language used for implementing the Newton-Raphson Method. \
