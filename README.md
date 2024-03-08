@@ -1,7 +1,7 @@
 # Newton-Raphson-Method-with-Python
 
 ## Description
-The Newton-Raphson Method (or Newton's Method) is an iterative numerical technique used to find the roots of a function. It starts with an initial guess and iteratively refines this guess until it approaches the roots of a function. The method is based on linear approximation and requires the calculation of both the function and its derivative. The Newton-Raphson method is widely utilized in several computational and mathematical applications such as in calculators and mathematical software packages. This project demonstrates the Newton-Raphson Method in Python, providing a simple and efficient way to approximate the roots of a quadratic function.
+The Newton-Raphson Method (or Newton's Method) is an iterative numerical technique in differential calculus that is used to find the roots of a function. It starts with an initial guess and iteratively refines this guess until it approaches the roots of a function. The method is based on linear approximation and requires the calculation of both the function and its derivative. The Newton-Raphson method is widely utilized in several computational and mathematical applications such as in calculators and mathematical software packages. This project demonstrates the Newton-Raphson Method in Python, providing a simple and efficient way to approximate the roots of a quadratic function.
 
 ![Picture of the application running](images/program_running.jpg)
 
